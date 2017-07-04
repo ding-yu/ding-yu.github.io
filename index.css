@@ -1,8 +1,8 @@
 body {
-  font-family: Times New Roman, Times, arial, helvetica, Sans-Serif;
+  font-family: Helvetica, Arial, sans-serif;
   text-align: left;
   direction: ltr;
-  width: 900px;
+  width: 750px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -12,6 +12,23 @@ body {
     margin:0px auto;
 }
 
+h1 {
+    font-color: #660033;
+  font-variant: normal;
+  font-weight: bold;
+  font-size: 34pt;
+  text-align: left;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+fangda {
+  font-color: #660033;
+  font-variant: normal;
+  font-size: 14pt;
+  text-align: left;
+  font-family: Helvetica, Arial, sans-serif;
+
+}
 
 
 h4 {
